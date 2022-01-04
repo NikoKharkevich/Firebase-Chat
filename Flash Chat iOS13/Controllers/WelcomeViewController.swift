@@ -10,7 +10,7 @@ class WelcomeViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        titleLabel.text = "⚡️FlashChat"
+        titleLabel.text = K.appName
         
         //        adding animation in label without library
 //        titleLabel.text = ""
