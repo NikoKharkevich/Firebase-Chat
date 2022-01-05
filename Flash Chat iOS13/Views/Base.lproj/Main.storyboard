@@ -358,6 +358,8 @@
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="Z99-sW-6ew">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <color key="tintColor" name="BrandLightBlue"/>
+                        <color key="barTintColor" name="BrandBlue"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
                     <connections>
@@ -373,8 +375,9 @@
         <designable name="y7D-jv-BlJ"/>
     </designables>
     <inferredMetricsTieBreakers>
-        <segue reference="6lc-cg-ieo"/>
+        <segue reference="8VE-Cb-AXp"/>
     </inferredMetricsTieBreakers>
+    <color key="tintColor" name="BrandBlue"/>
     <resources>
         <image name="paperplane.fill" catalog="system" width="128" height="118"/>
         <image name="textfield" width="298" height="93"/>
